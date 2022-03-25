@@ -1,0 +1,401 @@
+#Fundo {
+    width: 700px;
+    height: 460px;
+    background-color:#1b1d38;
+}
+
+#Chão {
+    width: 700px;
+    height: 90px;
+    background-color: #06a149;
+    position: absolute;
+    top: 380px
+}   
+
+#Base {
+    width: 200px;
+    height: 300px;
+    background-color:#daa969;
+    position: absolute;
+    top: 100px;
+    left: 250px;
+}
+
+#Janela1 {
+    width: 45px;
+    height: 45px;
+    background-color:#251908;
+    position: absolute;
+    top: 160px;
+    left: 290px;
+}
+
+#Janela2 {
+    width: 45px;
+    height: 45px;
+    background-color:#251908;
+    position: absolute;
+    top: 160px;
+    left: 365px;
+}
+
+#Janela3 {
+    width: 45px;
+    height: 45px;
+    background-color:#251908;
+    position: absolute;
+    top: 245px;
+    left: 290px;
+}
+
+#Janela4 {
+    width: 45px;
+    height: 45px;
+    background-color:#251908;
+    position: absolute;
+    top: 245px;
+    left: 365px;
+}
+
+#VidroJanela1 {
+    width: 15px;
+    height: 35px;
+    background-color:#ffee02;
+    position: absolute;
+    top: 250px;
+    left: 370px;
+}
+
+#VidroJanela12 {
+    width: 15px;
+    height: 35px;
+    background-color:#ffee02;
+    position: absolute;
+    top: 250px;
+    left: 390px;
+}
+
+#VidroJanela2 {
+    width: 15px;
+    height: 35px;
+    background-color:#253136;
+    position: absolute;
+    top: 165px;
+    left: 370px;
+}
+
+#VidroJanela22 {
+    width: 15px;
+    height: 35px;
+    background-color:#253136;
+    position: absolute;
+    top: 165px;
+    left: 390px;
+}
+
+#VidroJanela3 {
+    width: 15px;
+    height: 35px;
+    background-color:#253136;
+    position: absolute;
+    top: 165px;
+    left: 295px;
+}
+
+#VidroJanela32 {
+    width: 15px;
+    height: 35px;
+    background-color:#253136;
+    position: absolute;
+    top: 165px;
+    left: 315px;
+}
+
+#VidroJanela4 {
+    width: 15px;
+    height: 35px;
+    background-color:#ffee02;
+    position: absolute;
+    top: 250px;
+    left: 295px;
+}
+
+#VidroJanela42 {
+    width: 15px;
+    height: 35px;
+    background-color:#ffee02;
+    position: absolute;
+    top: 250px;
+    left: 315px;
+}
+
+#Porta {
+    width: 50px;
+    height: 70px;
+    background-color:#251908;
+    position: absolute;
+    top: 330px;
+    left: 325px;
+}
+
+#VidroPorta {
+    width: 40px;
+    height: 65px;
+    background-color:#829096;
+    position: absolute;
+    top: 335px;
+    left: 330px;
+}
+
+#Maçaneta {
+    width: 7px;
+    height: 7px;
+    background-color:#251908;
+    border-radius: 50%;
+    position: absolute;
+    top: 365px;
+    left: 360px;
+}
+
+#Interfone {
+    width: 19px;
+    height: 14px;
+    background-color:#474f52;
+    position: absolute;
+    top: 360px;
+    left: 379px;
+}
+
+#Interfone2 {
+    width: 9px;
+    height: 4px;
+    background-color:#829096;
+    position: absolute;
+    top: 362px;
+    left: 384px;
+}
+
+
+#Botão1 {
+    width: 3px;
+    height: 3px;
+    background-color:#080808;
+    position: absolute;
+    top: 368px;
+    left: 381px;
+}
+
+
+#Botão2 {
+    width: 3px;
+    height: 3px;
+    background-color:#080808;
+    position: absolute;
+    top: 368px;
+    left: 385px;
+}
+
+
+#Botão3 {
+    width: 3px;
+    height: 3px;
+    background-color:#080808;
+    position: absolute;
+    top: 368px;
+    left: 389px;
+}
+
+
+#Botão4 {
+    width: 3px;
+    height: 3px;
+    background-color:#080808;
+    position: absolute;
+    top: 368px;
+    left: 393px;
+}
+
+#Arbusto1 {
+    width: 40px;
+    height: 22px;
+    background-color:#368f13;
+    border-radius: 42%;
+    position: absolute;
+    top: 382px;
+    left: 265px;
+
+} 
+
+#Arbusto2 {
+    width: 20px;
+    height: 18px;
+    background-color:#368f13;
+    border-radius: 44%;
+    position: absolute;
+    top: 372px;
+    left: 268px;
+
+}
+
+#Arbusto3 {
+    width: 17px;
+    height: 15px;
+    background-color:#368f13;
+    border-radius: 44%;
+    position: absolute;
+    top: 378px;
+    left: 282px;
+
+}
+
+#Arbusto4 {
+    width: 25px;
+    height: 17px;
+    background-color:#368f13;
+    border-radius: 44%;
+    position: absolute;
+    top: 387px;
+    left: 260px;
+
+}
+
+#Antena1 {
+    width: 45px;
+    height: 3px;
+    background-color:#000000;
+    position: absolute;
+    top: 70px;
+    left: 260px;
+}
+
+#Antena2 {
+    width: 38px;
+    height: 3px;
+    background-color:#000000;
+    position: absolute;
+    top: 77px;
+    left: 264px;
+}
+
+#Antena3 {
+    width: 25px;
+    height: 3px;
+    background-color:#000000;
+    position: absolute;
+    top: 84px;
+    left: 271px;
+}
+
+#Antena4 {
+    width: 3px;
+    height: 30px;
+    background-color:#000000;
+    position: absolute;
+    top: 70px;
+    left: 282px;
+}
+
+#Lua1 {
+    width: 80px;
+    height: 80px;
+    background-color:#858f82;
+    border-radius: 50%;
+    position: absolute;
+    top: 55px;
+    left: 559px;
+
+} 
+
+#Lua2 {
+    width: 80px;
+    height: 80px;
+    background-color:#1b1d38;
+    border-radius: 50%;
+    position: absolute;
+    top: 50px;
+    left: 578px;
+
+} 
+
+#Antena1 {
+    width: 45px;
+    height: 3px;
+    background-color:#000000;
+    position: absolute;
+    top: 70px;
+    left: 260px;
+}
+
+#Estrela1 {
+    width: 1px;
+    height: 7px;
+    background-color:#ffffff;
+    position: absolute;
+    top: 60px;
+    left: 70px;
+}
+
+#Estrela12 {
+    width: 7px;
+    height: 1px;
+    background-color:#ffffff;
+    position: absolute;
+    top: 63px;
+    left: 67px;
+}
+
+#Estrela2 {
+    width: 1px;
+    height: 7px;
+    background-color:#ffffff;
+    position: absolute;
+    top: 110px;
+    left: 140px;
+}
+
+
+#Estrela22 {
+    width: 7px;
+    height: 1px;
+    background-color:#ffffff;
+    position: absolute;
+    top: 113px;
+    left: 137px;
+}
+
+#Estrela3 {
+    width: 1px;
+    height: 7px;
+    background-color:#ffffff;
+    position: absolute;
+    top: 100px;
+    left: 648px;
+}
+
+#Estrela32 {
+    width: 7px;
+    height: 1px;
+    background-color:#ffffff;
+    position: absolute;
+    top: 103px;
+    left: 645px;
+}
+
+#Estrela4 {
+    width: 1px;
+    height: 7px;
+    background-color:#ffffff;
+    position: absolute;
+    top: 48px;
+    left: 500px;
+}
+
+
+#Estrela42 {
+    width: 7px;
+    height: 1px;
+    background-color:#ffffff;
+    position: absolute;
+    top: 51px;
+    left: 497px;
+}
